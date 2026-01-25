@@ -1,7 +1,7 @@
 url: $SS_HONLAP
-status: down
-code: 415
-responseTime: 599
-lastUpdated: 2026-01-25T18:22:50.126Z
+status: up
+code: 200
+responseTime: 565
+lastUpdated: 2026-01-25T18:38:59.059Z
 startTime: 2026-01-04T01:02:19.517Z
 generator: Upptime <https://github.com/upptime/upptime>
