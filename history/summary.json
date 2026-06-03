@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "honlap",
     "status": "down",
-    "uptime": "98.42%",
-    "uptimeDay": "84.52%",
-    "uptimeWeek": "96.62%",
-    "uptimeMonth": "97.13%",
-    "uptimeYear": "98.42%",
+    "uptime": "98.41%",
+    "uptimeDay": "82.68%",
+    "uptimeWeek": "96.36%",
+    "uptimeMonth": "97.07%",
+    "uptimeYear": "98.41%",
     "time": 623,
     "timeDay": 584,
     "timeWeek": 600,
@@ -57,7 +57,7 @@
       "2026-05-28": 93,
       "2026-05-30": 24,
       "2026-06-02": 223,
-      "2026-06-03": 0
+      "2026-06-03": 27
     }
   },
   {
