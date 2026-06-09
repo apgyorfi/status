@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "honlap",
     "status": "down",
-    "uptime": "97.60%",
-    "uptimeDay": "65.28%",
-    "uptimeWeek": "70.67%",
-    "uptimeMonth": "91.38%",
-    "uptimeYear": "97.60%",
+    "uptime": "97.59%",
+    "uptimeDay": "65.27%",
+    "uptimeWeek": "70.18%",
+    "uptimeMonth": "91.27%",
+    "uptimeYear": "97.59%",
     "time": 621,
     "timeDay": 593,
     "timeWeek": 590,
     "timeMonth": 657,
     "timeYear": 621,
     "dailyMinutesDown": {
-      "2026-04-12": 39,
+      "2026-04-12": 19,
       "2026-04-13": 215,
       "2026-04-14": 66,
       "2026-04-15": 108,
@@ -57,7 +57,7 @@
       "2026-06-05": 319,
       "2026-06-07": 704,
       "2026-06-08": 559,
-      "2026-06-09": 1
+      "2026-06-09": 50
     }
   },
   {
@@ -86,12 +86,12 @@
     "url": "$SS_ISPCONFIG",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "isp-config-szerver",
-    "status": "up",
-    "uptime": "79.55%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "79.56%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "67.53%",
-    "uptimeYear": "79.55%",
+    "uptimeYear": "79.56%",
     "time": 688,
     "timeDay": 865,
     "timeWeek": 953,
@@ -141,7 +141,8 @@
       "2026-05-14": 1440,
       "2026-05-13": 1440,
       "2026-05-12": 1440,
-      "2026-05-11": 1314
+      "2026-05-11": 1314,
+      "2026-06-09": 0
     }
   }
 ]
