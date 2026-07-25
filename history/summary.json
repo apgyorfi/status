@@ -4,15 +4,15 @@
     "url": "$SS_HONLAP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "honlap",
-    "status": "down",
-    "uptime": "96.30%",
-    "uptimeDay": "94.75%",
-    "uptimeWeek": "58.90%",
-    "uptimeMonth": "78.78%",
-    "uptimeYear": "96.30%",
+    "status": "up",
+    "uptime": "96.29%",
+    "uptimeDay": "94.76%",
+    "uptimeWeek": "58.44%",
+    "uptimeMonth": "78.71%",
+    "uptimeYear": "96.29%",
     "time": 620,
-    "timeDay": 501,
-    "timeWeek": 522,
+    "timeDay": 526,
+    "timeWeek": 525,
     "timeMonth": 595,
     "timeYear": 620,
     "dailyMinutesDown": {
@@ -48,7 +48,7 @@
       "2026-07-20": 1437,
       "2026-07-23": 223,
       "2026-07-24": 212,
-      "2026-07-25": 0
+      "2026-07-25": 46
     }
   },
   {
